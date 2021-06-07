@@ -1,0 +1,7 @@
+Fixing error: “chromedriver” cannot be opened because the developer cannot be verified. Unable to launch the chrome browser on Mac OS
+which chromedriver
+
+/usr/local/bin/chromedriver
+
+Open in terminal - open /usr/local/bin/
+Ctrl+Click on the app. Then click open.
